@@ -1,3 +1,5 @@
+本demo只配好了cocos2dx-3.x的项目
+
 DragonBonesCPP
 ==============
 
